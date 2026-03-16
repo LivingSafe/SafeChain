@@ -5,6 +5,8 @@
 SafeChain is an open community initiative for a wearable anti-chain-snatch safety system.  
 The goal is a practical, user-centric, non-injurious design (alert + safe release), with sensor fusion and smart notification.
 
+![SafeChain concept image](Pictures/SafeChain.jpg)
+
 ## Why SafeChain?
 
 - Responds to real-world chain/head jewelry snatch attacks.
